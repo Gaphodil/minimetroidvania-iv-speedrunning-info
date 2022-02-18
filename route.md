@@ -68,7 +68,7 @@ Finish with the teleporter room clock (1 to 4). Try not to die leaving. You shou
 General considerations for Grassy Stones:
 - bottom right should ideally not be last; the Wind Gust in can be jump-cancelled easily
 - bottom left can also be entered with jump-cancelled Wind Gust, though it is slightly tighter
-- prism room can be entered with Wind Gust. Top right can be skipped with very precise Wind Gust jump-cancelling into the right middle
+- prism room can be entered with Wind Gust. Top right can be skipped with Mistform from above or very precise Wind Gust jump-cancelling
 
 General considerations for Ocean Spray:
 - all clocks will have respawning blocks; top left and bottom are the worst offenders

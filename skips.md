@@ -14,6 +14,10 @@ In *Surging Ascent*, you can skip the opening cutscene by saving and restarting.
 
 In *Launching Lunacy*, after the second jump of the fourth save, you can launch from the left side of the block to just after the last save. [video](https://i.imgur.com/qM8kNeF.mp4)
 
+### Final Area
+
+On the first save of the water section, you can ascend on the left side of the screen, skipping two saves.
+
 ## Item Specific (Mostly Wind Gust Jump-Cancelling)
 
 You can skip the boss of Grassy Stones by using Wind Gust.
@@ -35,7 +39,7 @@ You can non-obviously skip portions of the Mistform column by using or jump-canc
 
 You can ascend both lower clocks' columns easily by jump-cancelling Wind Gust.
 
-You can skip the upper-right portion of the top clock by landing right of the wood block with a very precise jump-cancelled Wind Gust.
+You can skip the upper-right portion of the top clock by landing right of the wood block with Mistform (or a very precise jump-cancelled Wind Gust).
 
 ### Volcanic Crag
 
