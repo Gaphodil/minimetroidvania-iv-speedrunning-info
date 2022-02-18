@@ -12,7 +12,7 @@ Go up-left or left-up (unsure which is faster), and touch the **teleporter**. Fr
 
 Follow the path in Ocean Spray by going left-left-down-down.
 
-Complete the Wet Descent to obtain **Swimming/Jump in Water**. Restarting at the second save activates multiple triggers, so you can skip the save entirely by going up and right.
+Complete the *Wet Descent* to obtain **Swimming/Jump in Water**. Restarting at the second save on the way out activates multiple triggers, so you can skip the save entirely by going up and right.
 
 Arrive at the **teleporter**. Warp back to Grassy Stones, then go down-left into a one-screen section of Ocean Spray. There is a skip here; descend the shaft (with or without the water), and while doing so, shoot across the screen to spawn another row of water. Use this second row to jump over the large triangle of triangles and reach the trial. Complete *Split Attention* - you can press restart after the success jingle for the first two rooms to skip part of the cutscene. Use the newly obtained **Water Torrent** to leave the way you came.
 
@@ -58,11 +58,11 @@ Do a skip to reach the clock before getting **Iron Boots**.
 
 Now begins clock repair simulator. Considerations are that the last room in a set of three will reset the room state due to the gate cutscene, and that it's probably faster to go from the lower clock in Chilly Peaks straight to final.
 
-Return to the teleporter, using Wind Gust and Mistform. Do the clock in the room above first (1 to 4) due to room state resetting.
+Return to the teleporter, using Wind Gust and Mistform. Do the clock in the room above first (2 to 1) due to room state resetting.
 
 There is a skip in this room. Jump-cancel Wind Gust to skip the nerfed drop gate, then do it again as a backup to failing the wood block puzzle (I do not know the actual solution lol).
 
-Finish with the teleporter room clock (2 to 1). Try not to die leaving. You should now be at Volcanic Crag teleporter with all its clocks cleaned. Options now include climbing to Chilly Peaks or warping to Grassy Stones or Ocean Spray.
+Finish with the teleporter room clock (1 to 4). Try not to die leaving. You should now be at Volcanic Crag teleporter with all its clocks cleaned. Options now include climbing to Chilly Peaks or warping to Grassy Stones or Ocean Spray.
 
 
 General considerations for Grassy Stones:
