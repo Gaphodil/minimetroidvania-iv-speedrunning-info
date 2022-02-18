@@ -18,7 +18,7 @@ Arrive at the **teleporter**. Warp back to Grassy Stones, then go down-left into
 
 Warp back to Ocean Spray from Grassy Stones. Use Torrent to head up-right to Chilly Peaks, then up-up to *Bounding Beyond*, which rewards you **Wind Gust**. Leave by heading down-down-right to the **teleporter**.
 
-Head right-down-right to the Volcanic Crag **teleporter**, then head up. You can do a skip with the platforms by jumping to the second, then using Wind Gust (with or without jump-cancelling) to reach the first platform on the first cycle. Obtain **Fire Bullets** from *Ingenious Igneous*.
+Head right-down-right to the Volcanic Crag **teleporter**, then head up. You can do a skip with the platforms by jumping to the second, then using Wind Gust (with or without jump-cancelling) to reach the first platform on the first cycle. Obtain **Fire Bullets** from *Ingenious Igneous*. There is a skip in the second room of this trial; freeze the second lava from the top on the left as normal, then the bottom lava on the right, and climb the platforms as they arrive.
 
 Return to Chilly Peaks by going down-left-up, then go up and up again.
 You can skip some of the right-side jumps of the middle room with Wind Gust, and bonk to go under the rolling rocks and skip needing Iron Boots.

@@ -12,6 +12,8 @@ In *Split Attention*, you can press restart after the success jingles of the fir
 
 In *Surging Ascent*, you can skip the opening cutscene by saving and restarting.
 
+In *Ingenious Igneous*, you can skip part of the second room by freezing the second lava from the top on the left as normal, then the bottom lava on the right, and climb the platforms as they arrive. [video](https://i.imgur.com/BfDG1sN.mp4)
+
 In *Launching Lunacy*, after the second jump of the fourth save, you can launch from the left side of the block to just after the last save. [video](https://i.imgur.com/qM8kNeF.mp4)
 
 ### Final Area
