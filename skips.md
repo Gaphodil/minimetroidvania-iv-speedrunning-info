@@ -8,6 +8,10 @@ After getting Swim, restarting at the second save activates multiple moving spik
 
 When getting Water Torrent, instead of going over the top to the save, you can go down and shoot across the screen to summon another water jet, which can be used to cross the large obstacle. [video](https://i.imgur.com/7sqMMGq.mp4)
 
+In *Split Attention*, you can press restart after the success jingles of the first two rooms. (If you do this in the last room, the Kid is missing - you can fix this by quitting to title (F2) and reloading.)
+
+In *Surging Ascent*, you can skip the opening cutscene by saving and restarting.
+
 In *Launching Lunacy*, after the second jump of the fourth save, you can launch from the left side of the block to just after the last save. [video](https://i.imgur.com/qM8kNeF.mp4)
 
 ## Item Specific (Mostly Wind Gust Jump-Cancelling)

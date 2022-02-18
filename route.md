@@ -14,7 +14,7 @@ Follow the path in Ocean Spray by going left-left-down-down.
 
 Complete the Wet Descent to obtain **Swimming/Jump in Water**. Restarting at the second save activates multiple triggers, so you can skip the save entirely by going up and right.
 
-Arrive at the **teleporter**. Warp back to Grassy Stones, then go down-left into a one-screen section of Ocean Spray. There is a skip here; descend the shaft (with or without the water), and while doing so, shoot across the screen to spawn another row of water. Use this second row to jump over the large triangle of triangles and reach the trial. Complete *Split Attention*. Use the newly obtained **Water Torrent** to leave the way you came.
+Arrive at the **teleporter**. Warp back to Grassy Stones, then go down-left into a one-screen section of Ocean Spray. There is a skip here; descend the shaft (with or without the water), and while doing so, shoot across the screen to spawn another row of water. Use this second row to jump over the large triangle of triangles and reach the trial. Complete *Split Attention* - you can press restart after the success jingle for the first two rooms to skip part of the cutscene. Use the newly obtained **Water Torrent** to leave the way you came.
 
 Warp back to Ocean Spray from Grassy Stones. Use Torrent to head up-right to Chilly Peaks, then up-up to *Bounding Beyond*, which rewards you **Wind Gust**. Leave by heading down-down-right to the **teleporter**.
 
