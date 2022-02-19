@@ -18,6 +18,8 @@ In *Launching Lunacy*, after the second jump of the fourth save, you can launch 
 
 ### Final Area
 
+On the second last save of the boots section, you can fall left from the starting position to a few jumps into the next save. (Thanks Huse!) [video](https://i.imgur.com/5DY2adW.mp4)
+
 On the first save of the water section, you can ascend on the left side of the screen, skipping two saves.
 
 ## Item Specific (Mostly Wind Gust Jump-Cancelling)
