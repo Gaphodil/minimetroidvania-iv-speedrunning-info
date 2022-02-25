@@ -14,6 +14,8 @@ In *Surging Ascent*, you can skip the opening cutscene by saving and restarting.
 
 In *Ingenious Igneous*, you can skip part of the second room by freezing select lava blocks and climbing the platforms in the center as they arrive. [video](https://i.imgur.com/fCbRxCx.mp4) [video (pre-1.04)](https://i.imgur.com/BfDG1sN.mp4)
 
+In *Bounding Beyond*, because the pickups respawn on bullets hitting save points, you can skip having to fall down on the fourth save by recollecting the starting three refreshers. [video](https://i.imgur.com/CyCnKxS.mp4)
+
 In *Launching Lunacy*, after the second jump of the fourth save, you can launch from the left side of the block to just after the last save. [video](https://i.imgur.com/qM8kNeF.mp4)
 
 ### Final Area

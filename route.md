@@ -14,9 +14,9 @@ Follow the path in Ocean Spray by going left-left-down-down.
 
 Complete the *Wet Descent* to obtain **Swimming/Jump in Water**. Restarting at the second save on the way out activates multiple triggers, so you can skip the save entirely by going up and right.
 
-Arrive at the **teleporter**. Warp back to Grassy Stones, then go down-left into a one-screen section of Ocean Spray. There is a skip here; descend the shaft (with or without the water), and while doing so, shoot across the screen to spawn another row of water. Use this second row to jump over the large triangle of triangles and reach the trial. Complete *Split Attention* - you can press restart after the success jingle for the first two rooms to skip part of the cutscene. Use the newly obtained **Water Torrent** to leave the way you came.
+Arrive at the **teleporter**. Warp back to Grassy Stones, then go down-left into a one-screen section of Ocean Spray. There is a skip here; descend the shaft (with or without the water), and while doing so, shoot across the screen to spawn another row of water. Use these extra rows to jump over the large triangle of triangles and reach the trial. Complete *Split Attention* - you can press restart after the success jingle for the first two rooms to skip part of the cutscene. Use the newly obtained **Water Torrent** to leave the way you came.
 
-Warp back to Ocean Spray from Grassy Stones. Use Torrent to head up-right to Chilly Peaks, then up-up to *Bounding Beyond*, which rewards you **Wind Gust**. Leave by heading down-down-right to the **teleporter**.
+Warp back to Ocean Spray from Grassy Stones. Use Torrent to head up-right to Chilly Peaks, then up-up to *Bounding Beyond*, which rewards you **Wind Gust**. There is a skip on the fourth save; instead of falling down, recollect the powerups once or twice by shooting the save in midair. Leave by heading down-down-right to the **teleporter**.
 
 Head right-down-right to the Volcanic Crag **teleporter**, then head up. You can do a skip with the platforms by jumping to the second, then using Wind Gust (with or without jump-cancelling) to reach the first platform on the first cycle. Obtain **Fire Bullets** from *Ingenious Igneous*. There is a skip in the second room of this trial; freeze the second lava from the top on the left as normal, then the bottom lava on the right, and climb the platforms as they arrive.
 
@@ -58,7 +58,7 @@ Do a skip to reach the clock before getting **Iron Boots**.
 
 ### 1.04+
 
-The boss of Volcanic Crag is now unskippable, and presently Mistform cannot be used during the fight. Consequently, it may be best obtained after the clockwork tools.
+The boss of Volcanic Crag is now unskippable, and Mistform cannot be used during the fight. Consequently, it may be best obtained after the clockwork tools.
 
 A possible variation is as follows:
 
