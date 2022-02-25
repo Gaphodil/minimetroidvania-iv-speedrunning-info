@@ -4,15 +4,15 @@
 
 ## Always Available
 
-After getting Swim, restarting at the second save activates multiple moving spikes, which you can use to skip the left side of the screen.
+(pre-1.04) After getting Swim, restarting at the second save activates multiple moving spikes, which you can use to skip the left side of the screen. (This can still be used when returning for the clock.)
 
-When getting Water Torrent, instead of going over the top to the save, you can go down and shoot across the screen to summon another water jet, which can be used to cross the large obstacle. [video](https://i.imgur.com/7sqMMGq.mp4)
+When getting Water Torrent, instead of going over the top to the save, you can go down and shoot across the screen to summon another two water jets, which can be used to cross the large obstacle. [video](https://i.imgur.com/5B33gO4.mp4) [video (pre-1.04)](https://i.imgur.com/7sqMMGq.mp4)
 
 In *Split Attention*, you can press restart after the success jingles of the first two rooms. (If you do this in the last room, the Kid is missing - you can fix this by quitting to title (F2) and reloading.)
 
 In *Surging Ascent*, you can skip the opening cutscene by saving and restarting.
 
-In *Ingenious Igneous*, you can skip part of the second room by freezing the second lava from the top on the left as normal, then the bottom lava on the right, and climb the platforms as they arrive. [video](https://i.imgur.com/BfDG1sN.mp4)
+In *Ingenious Igneous*, you can skip part of the second room by freezing select lava blocks and climbing the platforms in the center as they arrive. [video](https://i.imgur.com/fCbRxCx.mp4) [video (pre-1.04)](https://i.imgur.com/BfDG1sN.mp4)
 
 In *Launching Lunacy*, after the second jump of the fourth save, you can launch from the left side of the block to just after the last save. [video](https://i.imgur.com/qM8kNeF.mp4)
 
@@ -20,7 +20,7 @@ In *Launching Lunacy*, after the second jump of the fourth save, you can launch 
 
 On the second last save of the boots section, you can fall left from the starting position to a few jumps into the next save. (Thanks Huse!) [video](https://i.imgur.com/5DY2adW.mp4)
 
-On the first save of the water section, you can ascend on the left side of the screen, skipping two saves.
+(pre-1.04) On the first save of the water section, you can ascend on the left side of the screen, skipping two saves.
 
 ## Item Specific (Mostly Wind Gust Jump-Cancelling)
 
@@ -28,14 +28,13 @@ You can skip the boss of Grassy Stones by using Wind Gust.
 
 You can skip the boss of Ocean Spray by using Water Torrent and Wind Gust.
 
-You can skip the boss of Volcanic Crag by using Mistform.
+(pre-1.04) You can skip the boss of Volcanic Crag by using Mistform.
 
 You can use a Wind Gust to one-cycle the two platform pillars that lead to Fire Bullets. [video](https://i.imgur.com/iUsiIbc.mp4)
 
 You can use a jump-cancelled Wind Gust to cross the lake of lava in front of Iron Boots. [video](https://i.imgur.com/QRlqbWv.mp4)
 
 You can non-obviously skip portions of the Mistform column by using or jump-cancelling Wind Gust. [video](https://i.imgur.com/Xcpb0nD.mp4)
-
 
 ## Clocks
 

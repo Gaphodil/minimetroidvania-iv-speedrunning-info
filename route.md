@@ -24,6 +24,8 @@ Return to Chilly Peaks by going down-left-up, then go up and up again.
 You can skip some of the right-side jumps of the middle room with Wind Gust, and bonk to go under the rolling rocks and skip needing Iron Boots.
 You can skip the bottom right of the final room by jump-cancelling Wind Gust to land on the left of the first set of wood blocks.
 
+### 1.01
+
 Complete *Launching Lunacy* and get **Mistform**. There is a gigantic skip after the fourth save's second jump; instead of walking off to the right, launch left and up to land on the platform above, one jump into the final save.
 
 (Outside of this, there are probably a lot of smaller skips about; one is in the top left, where you can go above a spike but below the killplane to be one jump into the next save. Another is a walkoff bonk not-diagonal from one jump before the third save, to one after the fourth, which barely saves any time and isn't worth it.)
@@ -36,7 +38,7 @@ Head up twice. Skip the platforming on the left with Wind Gust as intended, then
 
 Climb the *Surging Ascent* (save and restart to skip the cutscene) and get **Iron Boots**.
 
-### Summary
+#### Summary
 
 Grab the Grassy Stones teleporter. Head left to Ocean Spray and down to get **Swimming**.
 
@@ -54,13 +56,23 @@ Warp from Grassy Stones to Volcanic Crag. Get the **clockwork tools**.
 
 Do a skip to reach the clock before getting **Iron Boots**.
 
+### 1.04+
+
+The boss of Volcanic Crag is now unskippable, and presently Mistform cannot be used during the fight. Consequently, it may be best obtained after the clockwork tools.
+
+A possible variation is as follows:
+
+After **Fire Bullets**, get the **prism of light**.
+
+Go right from Grassy Stones to get **Iron Boots**, then fight and defeat The Eye for the **clockwork tools**.
+
+Reach the clock with the same skip before getting both **Mistform** and the clock in the same room.
+
 ### Clean-up
 
 Now begins clock repair simulator. Considerations are that the last room in a set of three will reset the room state due to the gate cutscene, and that it's probably faster to go from the lower clock in Chilly Peaks straight to final.
 
 Return to the teleporter, using Wind Gust and Mistform. Do the clock in the room above first (2 to 1) due to room state resetting.
-
-There is a skip in this room. Jump-cancel Wind Gust to skip the nerfed drop gate, then do it again as a backup to failing the wood block puzzle (I do not know the actual solution lol).
 
 Finish with the teleporter room clock (1 to 4). Try not to die leaving. You should now be at Volcanic Crag teleporter with all its clocks cleaned. Options now include climbing to Chilly Peaks or warping to Grassy Stones or Ocean Spray.
 
@@ -84,7 +96,7 @@ General considerations for Chilly Peaks:
 
 
 Here is a possible clock route, after completing Volcanic Crag's clocks:
-- go directly to Chilly Peaks right clock (10 to 1)
+- (1.01) go directly to Chilly Peaks right clock (10 to 1)
 - use Volcanc Crag teleporter to Grassy Stones
 - go down-right to do the right clock first (4 to 9), then do the one in the teleporter room (2PM to 6AM)
 - do the topmost clock in Grassy Stones (7 to 4), then navigate left to Ocean Spray
@@ -98,6 +110,8 @@ Grabbing the Grassy Stones teleporter is optional but recommended.
 
 Go to Volcanic Crag and get both **Iron Boots** and **Fire Bullets**. (it might be possible to jump-cancel into the Mistform column entry wind without Iron Boots, but it would be very difficult)
 
+(1.04+) If the boss of Volcanic Crag is required, it may be worth fighting it and the boss of Grassy Stones now or after Mistform, to be able to set the clocks located in the same rooms as Swimming, Wind Gust, and possibly the Grassy Stones teleporter.
+
 From the teleporter, enter Chilly Peaks and get **Mistform**.
 
 Go left into Ocean Spray and use Mistform to reach **Swimming**.
@@ -107,8 +121,3 @@ Return to Grassy Stones (probably warp) and get **Water Torrent**.
 Warp to Chilly Peaks and get **Wind Gust**.
 
 After getting the **prism of light** and the **clockwork tools**, the routes converge.
-
-### Speculation
-
-If you choose to fight the bosses of Grassy Stones and Volcanic Crag (and win quickly) you may ultimately save time by being able to do certain clocks on the way rather than all at the end. The ones in the rooms containing Swimming and Wind Gust come to mind, and they are both out of the way otherwise.
-
