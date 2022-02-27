@@ -1,6 +1,6 @@
 ![Title screen for Minimetroidvania IV](/images/title.jpg "Title screen")
 
-**Minimetroidvania IV** is an *I Wanna Be The Guy* [fangame](http://fangam.es/intro) developed by **kurath**. This repo seeks to provide information about its (potential) speedrun, based primarily on v1.01. Spoilers, of course.
+**[Minimetroidvania IV](https://delicious-fruit.com/ratings/game_details.php?id=24396)** is an *I Wanna Be The Guy* [fangame](http://fangam.es/intro) developed by **kurath**. This repo seeks to provide information about its speedrun. Spoilers, of course.
 
 \> [The Route(s)](route.md)
 
