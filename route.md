@@ -28,7 +28,7 @@ You can skip the bottom right of the final room by jump-cancelling Wind Gust to 
 
 Complete *Launching Lunacy* and get **Mistform**. There is a gigantic skip after the fourth save's second jump; instead of walking off to the right, launch left and up to land on the platform above, one jump into the final save.
 
-(Outside of this, there are probably a lot of smaller skips about; one is in the top left, where you can go above a spike but below the killplane to be one jump into the next save. Another is a walkoff bonk not-diagonal from one jump before the third save, to one after the fourth, which barely saves any time and isn't worth it.)
+(Outside of this, there are probably a lot of smaller skips about; one is in the top left, where you can go above a spike but below the killplane to be one jump into the next save. Another is a walkoff bonk not-diagonal from one jump before the third save, to one after the fourth, which barely saves any time and isn't worth it. Yet another is a drop from the right block of the second save through a diagonal to the fourth.)
 
 Use Mistform to go through the spikes on the left side into the next room. Head back to the Volcanic Crag teleporter. Teleport to Grassy Stones and use Wind Gust to go up and steal the **prism of light**. Warp back to Volcanic Crag and head down-left. Use Mistform to go down and steal the **clockwork tools**.
 

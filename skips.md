@@ -16,6 +16,8 @@ In *Ingenious Igneous*, you can skip part of the second room by freezing select 
 
 In *Bounding Beyond*, because the pickups respawn on bullets hitting save points, you can skip having to fall down on the fourth save by recollecting the starting three refreshers. [video](https://i.imgur.com/CyCnKxS.mp4)
 
+In *Launching Lunacy*, after the first jump of the second save, you can fall through the diagonal and jump to the fourth save. [video](https://i.imgur.com/SaD9zYG.mp4)
+
 In *Launching Lunacy*, after the second jump of the fourth save, you can launch from the left side of the block to just after the last save. [video](https://i.imgur.com/qM8kNeF.mp4)
 
 ### Final Area
@@ -37,6 +39,8 @@ You can use a Wind Gust to one-cycle the two platform pillars that lead to Fire 
 You can use a jump-cancelled Wind Gust to cross the lake of lava in front of Iron Boots. [video](https://i.imgur.com/QRlqbWv.mp4)
 
 You can non-obviously skip portions of the Mistform column by using or jump-cancelling Wind Gust. [video](https://i.imgur.com/Xcpb0nD.mp4)
+
+The Ocean Spray connector to Chilly Peaks can be traversed optimally with Wind Gust, Mistform, and a precise jump. [video 1](https://i.imgur.com/0FZvjTi.mp4) [video 2](https://i.imgur.com/hC5n2Jo.mp4)
 
 ## Clocks
 
